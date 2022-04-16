@@ -4,4 +4,4 @@ ISO layered, artisan croissants. Perhaps Yelp or Google reviews can help us narr
 
 This repository is dedicated to the marriage of figaro
 
-![alt text](https://github.com/kb3k/can-chicago-make-croissants/imgs/bugsAndElmerDoMarriageOfFigaro.jpeg)
+![alt text](https://github.com/kb3k/can-chicago-create-croissants/blob/main/imgs/bugsAndElmerDoMarriageOfFigaro.jpeg)
