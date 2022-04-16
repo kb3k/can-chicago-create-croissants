@@ -2,5 +2,6 @@
 */.ipynb_checkpoints/*
 
 *.bkp
+*.csv
 
 croissant_toolarge.jpeg
