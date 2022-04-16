@@ -4,3 +4,4 @@ ISO layered, artisan croissants. Perhaps Yelp or Google reviews can help us narr
 
 ![alt text](https://github.com/kb3k/can-chicago-make-croissants/imgs/croissant.jpeg)
 source/baker: Claire Saffitz
+
