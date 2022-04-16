@@ -1,5 +1,6 @@
-.ipynb_checkpoints/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 *.bkp
 
-croissant_toolarge.jpg
+croissant_toolarge.jpeg
