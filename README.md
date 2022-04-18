@@ -14,7 +14,7 @@ Conducts a basic Naive Bayes algorithm against text to determine whether a baker
 
 2. nlp/label_data
 
-Involves the thought process and source code behind labeling a bakery as artisan, maybe, or not artisan.
+Involves the thought process and source code behind labeling a bakery as artisan, maybe, or not artisan. Finishes off with a report of those labeled as (potentially) artisan.
 
 Note: the labeling is for experiment purposes only and is by no means intended to be taken seriously by any consumer outside of this POC.
 
