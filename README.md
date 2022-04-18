@@ -20,12 +20,12 @@ Note: the labeling is for experiment purposes only and is by no means intended t
 
 3. nlp/extract_info 
 
-Performs a word frequency distribution analysis. Cleans the data ultimately yielding a tokenized, stemmed, lower cased text filtered of tokenizing, filtered of stop words. 
+Performs a word frequency distribution analysis. Cleans the data ultimately yielding a tokenized, stemmed, lower-cased text filtered of stop words. 
 
 4. artisan_croissant_locator
 
-Uses BeautifulSoup to scrape the web for some Chicago bakery reviews involving the word 'croissant.'
+Scrape the web for some Chicagoland bakery reviews involving the word 'croissant.'
 
 Limitations:
 
-There is only 1 review per bakery, totaling 90 reviews total. More reviews, perhaps from another medium such as Google, would ideally be collected per bakery as 1 review does not decide all. However for the business use case, 1 review will suffice.
+There is only 1 review per bakery, totaling 90 reviews total. More reviews, perhaps from another medium such as Google, would ideally be collected per bakery as 1 review does not decide all. However for the business use case, 1 review will suffice. Further, the naive bayes algorithm is applied to a single instance of test data that is not randomly selected; a cross validation solution could be more appropriate for this small sample size.
